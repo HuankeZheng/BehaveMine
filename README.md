@@ -1,16 +1,6 @@
 ## BehaveMine
 
-project/
-├── src/                    # Source files
-│   ├── dataloader.py           
-│   ├── decoder.py            
-│   ├── embedding.py       
-│   ├── exp.py            
-│   └── model.py              
-├── data/                 # Processed datasets
-├── utils.py           # Utility functions for result analysis and train-test splitting
-├── main.ipynb           # Main executable notebook
-└── README.md              
+
 
 
 ## Evaluation Results
